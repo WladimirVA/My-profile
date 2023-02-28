@@ -132,7 +132,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 
-<--<details>
+<!--<details>
   <summary><b>:gear: &nbsp;Статистика GitHub</b></summary>
   <br/>
     <p align="center">
