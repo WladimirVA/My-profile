@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;В настоящее время работаю в ООО ИК "Сибинтек" ведущим специалистом по поддержке приложений.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Любовь к новым знаниям.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;В настоящее время изучаю JavaScript, HTML, CSS\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;В настоящее время изучаю JavaScript, HTML, CSS, React\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;В 2009 году закончил колледж по професии "Техник" где меня и затянуло в программирование, на данный момент заканчиваю высшее образование по специальности "Прикладная информатика - Бакалавр"\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Живу в Волгограде со своей семьей, жена и двое прекрасных детей.
 
